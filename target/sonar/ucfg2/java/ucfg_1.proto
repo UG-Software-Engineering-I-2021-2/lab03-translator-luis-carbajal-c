@@ -1,0 +1,327 @@
+
+Ccs.ing.CSTranslator#translate(Ljava/lang/String;)Ljava/lang/String;w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java ("10*—
+2w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java, ,(Õ 
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java, ,(&
+%31java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;*%
+#
+responsejava.lang.StringBuilder*
+
+	inputLinejava.lang.String2append(Ljava/lang/String;)*
+3*º
+3w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java+ +(ˆÛ
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java+ +()
+%30java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;*
+
+injava.io.BufferedReader2
+readLine()º
+π
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java+ +()
+	inputLinejava.lang.String"__id*
+
+%30java.lang.String*
+2
+1*â/
+4w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" "(zç
+ä
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" #(
+%9java.lang.String"__concat*db
+`https://script.google.com/macros/s/AKfycbwwFixn3YdWpyj9ecARYM9tAB-iLs8dvnP6YCE9Iq47wae-g30a/exec*
+?q=´
+®
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java#0 #(F
+%10java.nio.charset.Charset"__id*
+""…
+∆
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java# #(G
+%11java.lang.String"Zjava.net.URLEncoder#encode(Ljava/lang/String;Ljava/nio/charset/Charset;)Ljava/lang/String;*"
+java.net.URLEncoder*
+
+textjava.lang.String*!
+
+%10java.nio.charset.Charset‘
+—
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" #(G
+%12java.lang.String"__concat*
+
+%9java.lang.String*
+
+%11java.lang.String»
+≈
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" #(T
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+
+&target=¿
+Ω
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java#W #(]
+%14java.lang.String"__id*#*!
+cs.ing.CSTranslator"
+langTo’
+“
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" #(]
+%15java.lang.String"__concat*
+
+%13java.lang.String*
+
+%14java.lang.String»
+≈
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" #(j
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+
+&source=¬
+ø
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java#m #(u
+%17java.lang.String"__id*%*#
+cs.ing.CSTranslator"
+
+langFrom’
+“
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" #(u
+%18java.lang.String"__concat*
+
+%16java.lang.String*
+
+%17java.lang.Stringπ
+∂
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java" #(v
+urlStrjava.lang.String"__id*
+
+%18java.lang.Stringüú
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java% %(
+%19java.net.URL"java.net.URL‚
+ﬂ
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java% %(!
+%20"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%19java.net.URL*
+
+urlStrjava.lang.StringÆ
+´
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java% %("
+urljava.net.URL"__id*
+
+%19java.net.URLµ≤
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java& &((
+%21java.lang.StringBuilder"java.lang.StringBuilder»
+≈
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java& &(*
+%22"!java.lang.StringBuilder#<init>()V* 
+
+%21java.lang.StringBuilder…
+∆
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java& &(+#
+responsejava.lang.StringBuilder"__id* 
+
+%21java.lang.StringBuilder˚¯
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java'4 '(H
+%23java.net.URLConnection"5java.net.URL#openConnection()Ljava/net/URLConnection;*
+
+urljava.net.URL2openConnection()∆
+√
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java' '(I!
+conjava.net.HttpURLConnection"__id*
+
+%23java.net.URLConnection€ÿ
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java( ((;
+%24void"Pjava.net.URLConnection#setRequestProperty(Ljava/lang/String;Ljava/lang/String;)V*#
+!
+conjava.net.HttpURLConnection*
+
+User-Agent*
+Mozilla/5.028setRequestProperty(Ljava/lang/String;Ljava/lang/String;)çä
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java): )(N
+%25java.io.InputStream"<java.net.URLConnection#getInputStream()Ljava/io/InputStream;*#
+!
+conjava.net.HttpURLConnection2getInputStream()π∂
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java)( )(9 
+%26java.io.InputStreamReader"java.io.InputStreamReaderˇ
+¸
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java)$ )(O
+%27"8java.io.InputStreamReader#<init>(Ljava/io/InputStream;)V*"
+ 
+%26java.io.InputStreamReader*
+
+%25java.io.InputStream≥∞
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java) )(#
+%28java.io.BufferedReader"java.io.BufferedReader˙
+˜
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java) )(P
+%29"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%28java.io.BufferedReader*"
+ 
+%26java.io.InputStreamReader¡
+æ
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java) )(Q
+injava.io.BufferedReader"__id*
+
+%28java.io.BufferedReader©
+¶
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java* *(
+	inputLinejava.lang.String"__id*
+""*
+3*Æ
+5w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (¡
+æ
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (
+%7java.util.HashMap"__id*$*"
+cs.ing.CSTranslator"	
+hashMap’
+“
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java ($
+%8java.lang.String"__mapGet*
+
+%7java.util.HashMap*
+
+textjava.lang.String"ì
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (%
+
+%8java.lang.String*‚
+6w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (¡
+æ
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (
+%5java.util.HashMap"__id*$*"
+cs.ing.CSTranslator"	
+hashMapóî
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (%
+%6boolean"2java.util.HashMap#containsKey(Ljava/lang/Object;)Z*
+
+%5java.util.HashMap*
+
+textjava.lang.String2containsKey(Ljava/lang/Object;)*
+4
+5*ë
+7w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (,…∆
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java/ (<	
+%2int"java.lang.String#length()I*
+
+textjava.lang.String2length()»
+≈
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (<
+%3java.lang.String"__concat*
+La longitud del texto (*
+	
+%2intÂ
+‚
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (h
+%4java.lang.String"__concat*
+
+%3java.lang.String*+)
+') excede el limite de caracteres (500)."ì
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (i
+
+%4java.lang.String*–
+8w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (…∆
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (	
+%1int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+6
+7*í
+9w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java ()"ì
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (*
+No se ingreso texto.*—
+10w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (…∆
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java (	
+%0int"java.lang.String#length()I*
+
+textjava.lang.String2length()*
+8
+9*•
+1w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java. .(
+”–
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java. .(
+%32void"java.io.BufferedReader#close()V*
+
+injava.io.BufferedReader2close()¬
+ø
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java/ /(
+%33java.util.HashMap"__id*$*"
+cs.ing.CSTranslator"	
+hashMap˛˚
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java/ /(-
+%34java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
+#
+responsejava.lang.StringBuilder2
+toString()Ú
+Ô
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java/ /(.
+%35java.lang.String"__mapSet*
+
+%33java.util.HashMap*
+
+textjava.lang.String*
+
+%34java.lang.String˛˚
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java0 0("
+%36java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*%
+#
+responsejava.lang.StringBuilder2
+toString()"î
+w
+mC:/Users/ASUS/UTEC/2021-2/IS/Semana 2/lab03-translator-luis-carbajal-c/src/main/java/cs/ing/CSTranslator.java0 0(#
+
+%36java.lang.String:
+textjava.lang.StringB
+cs.ing.CSTranslator

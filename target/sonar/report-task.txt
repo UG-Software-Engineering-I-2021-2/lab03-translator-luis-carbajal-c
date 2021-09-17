@@ -1,0 +1,7 @@
+organization=ug-software-engineering-i-2021-2
+projectKey=org.example:lab03-translator-luis-carbajal-c
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23273
+dashboardUrl=https://sonarcloud.io/dashboard?id=org.example%3Alab03-translator-luis-carbajal-c
+ceTaskId=AXvxsr2mNW2YGd2zmXqF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvxsr2mNW2YGd2zmXqF

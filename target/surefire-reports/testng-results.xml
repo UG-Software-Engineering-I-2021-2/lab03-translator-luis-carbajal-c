@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="31" passed="31" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-16T21:59:57 COT" name="cs.ing.CSTranslatorTest" finished-at="2021-09-16T22:00:00 COT" duration-ms="3321">
+    <groups>
+    </groups>
+    <test started-at="2021-09-16T21:59:57 COT" name="Command line test" finished-at="2021-09-16T22:00:00 COT" duration-ms="3321">
+      <class name="cs.ing.CSTranslatorTest">
+        <test-method signature="MainTest()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:57 COT" name="MainTest" finished-at="2021-09-16T21:59:59 COT" duration-ms="1855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MainTest -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test01()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T21:59:59 COT" name="Test01" finished-at="2021-09-16T22:00:00 COT" duration-ms="1201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test02()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test02" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+        <test-method signature="Test03()[pri:0, instance:cs.ing.CSTranslatorTest@3e62d773]" started-at="2021-09-16T22:00:00 COT" name="Test03" finished-at="2021-09-16T22:00:00 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03 -->
+      </class> <!-- cs.ing.CSTranslatorTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- cs.ing.CSTranslatorTest -->
+</testng-results>
